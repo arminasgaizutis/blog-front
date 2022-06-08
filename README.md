@@ -14,7 +14,7 @@ NodeJS - Backend
 # To run application you need to:
 
 1. type in console- npm install
-2. then- npm run
+2. then- npm start
 
 # Dependencies:
 
